@@ -12,5 +12,5 @@ And this project included with CSS for better look :)
 - using with cutome form hook
 - use Reducer and callback hook as well.
 
-build with css file
+build with css and validator file
 
